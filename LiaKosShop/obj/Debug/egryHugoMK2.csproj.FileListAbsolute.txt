@@ -1,0 +1,144 @@
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\egryHugoMK2.exe.config
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\egryHugoMK2.exe
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\egryHugoMK2.pdb
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\BouncyCastle.Cryptography.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\itextsharp.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\Routrek.granados.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\BouncyCastle.Cryptography.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\itextsharp.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.AssemblyReference.cache
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.Properties.Resources.resources
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.GenerateResource.cache
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.CoreCompileInputs.cache
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugo.21455F6E.Up2Date
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.exe
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.pdb
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.egryBoutiqueMK2.resources
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmClient.resources
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\ReaLTaiizor.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\ReaLTaiizor.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\GestionBD.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\MySqlConnector.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Memory.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Buffers.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Numerics.Vectors.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\GestionBD.pdb
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\GestionBD.dll.config
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\MySqlConnector.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Memory.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Buffers.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\System.Numerics.Vectors.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmCommande.resources
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmFournisseur2.resources
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmProduit.resources
+A:\save global golden\Pictures\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmConnexion.resources
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\egryHugoMK2.exe.config
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\egryHugoMK2.exe
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\egryHugoMK2.pdb
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\GestionBD.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\itextsharp.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\ReaLTaiizor.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Routrek.granados.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Buffers.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Memory.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\MySqlConnector.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\GestionBD.pdb
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\GestionBD.dll.config
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\itextsharp.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\ReaLTaiizor.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Buffers.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Memory.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\MySqlConnector.xml
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.AssemblyReference.cache
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmCommande.resources
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmConnexion.resources
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmFournisseur2.resources
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.egryBoutiqueMK2.resources
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmClient.resources
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.FrmProduit.resources
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.Properties.Resources.resources
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.GenerateResource.cache
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.CoreCompileInputs.cache
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugo.21455F6E.Up2Date
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.exe
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\obj\Debug\egryHugoMK2.pdb
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\GlobalSSH.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Renci.SshNet.dll
+C:\Users\hugoe\Desktop\egryHugoMK2\egryHugoMK2\bin\Debug\Renci.SshNet.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\egryHugoMK2.exe.config
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\egryHugoMK2.exe
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\egryHugoMK2.pdb
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\GestionBD.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\GlobalSSH.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\itextsharp.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\ReaLTaiizor.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Renci.SshNet.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Routrek.granados.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Buffers.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Memory.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\MySqlConnector.dll
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\GestionBD.pdb
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\GestionBD.dll.config
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\itextsharp.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\ReaLTaiizor.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\Renci.SshNet.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Buffers.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Memory.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\bin\Debug\MySqlConnector.xml
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.AssemblyReference.cache
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.FrmCommande.resources
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.FrmConnexion.resources
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.FrmFournisseur2.resources
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.egryBoutiqueMK2.resources
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.FrmClient.resources
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.FrmProduit.resources
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.Properties.Resources.resources
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.GenerateResource.cache
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.csproj.CoreCompileInputs.cache
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugo.21455F6E.Up2Date
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.exe
+C:\Users\loico\OneDrive\Bureau\egryHugoMK3\egryHugoMK2\obj\Debug\egryHugoMK2.pdb

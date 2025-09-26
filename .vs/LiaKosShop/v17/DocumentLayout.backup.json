@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|c:\\users\\loico\\onedrive\\bureau\\liakosshop\\liakosshop\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB2E3A8-BE2E-4AE4-9163-C3099CC5BA5F}|GestionBD\\GestionBD.csproj|c:\\users\\loico\\onedrive\\bureau\\liakosshop\\gestionbd\\gestionboutique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB2E3A8-BE2E-4AE4-9163-C3099CC5BA5F}|GestionBD\\GestionBD.csproj|solutionrelative:gestionbd\\gestionboutique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|c:\\users\\loico\\onedrive\\bureau\\liakosshop\\liakosshop\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|c:\\users\\loico\\onedrive\\bureau\\liakosshop\\liakosshop\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\frmcommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmcommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\frmcommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmcommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\frmproduit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmproduit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\gestioninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\gestioninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\pdfgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\pdfgestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB2E3A8-BE2E-4AE4-9163-C3099CC5BA5F}|GestionBD\\GestionBD.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\gestionbd\\gestioncomande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB2E3A8-BE2E-4AE4-9163-C3099CC5BA5F}|GestionBD\\GestionBD.csproj|solutionrelative:gestionbd\\gestioncomande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\liakosshop\\frmfournisseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6169E19-71C6-44C8-A791-7E2B1321B2F6}|LiaKosShop\\LiaKosShop.csproj|solutionrelative:liakosshop\\frmfournisseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmClient.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmClient.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmClient.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmClient.cs",
+              "RelativeToolTip": "LiaKosShop\\FrmClient.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAmwJwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:34:55.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmClient.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmClient.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmClient.cs [Design]",
+              "RelativeToolTip": "LiaKosShop\\FrmClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:34:51.491Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmConnexion.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmConnexion.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmConnexion.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmConnexion.cs",
+              "RelativeToolTip": "LiaKosShop\\FrmConnexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:34:33.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionBoutique.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\GestionBD\\GestionBoutique.cs",
+              "RelativeDocumentMoniker": "GestionBD\\GestionBoutique.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\GestionBD\\GestionBoutique.cs",
+              "RelativeToolTip": "GestionBD\\GestionBoutique.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwOsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:33:31.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAccueil.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmAccueil.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmAccueil.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmAccueil.cs",
+              "RelativeToolTip": "LiaKosShop\\FrmAccueil.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:29:28.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAccueil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmAccueil.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmAccueil.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmAccueil.cs [Design]",
+              "RelativeToolTip": "LiaKosShop\\FrmAccueil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:29:27.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCommande.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmCommande.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmCommande.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmCommande.cs",
+              "RelativeToolTip": "LiaKosShop\\FrmCommande.cs",
+              "ViewState": "AgIAANMBAAAAAAAAAAAcwPEBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:28:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCommande.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmCommande.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmCommande.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmCommande.cs [Design]",
+              "RelativeToolTip": "LiaKosShop\\FrmCommande.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:28:41.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\Program.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\Program.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\Program.cs",
+              "RelativeToolTip": "LiaKosShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:31:22.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmProduit.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmProduit.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmProduit.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmProduit.cs*",
+              "RelativeToolTip": "LiaKosShop\\FrmProduit.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:34:51.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PdfGestion.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\PdfGestion.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\PdfGestion.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\PdfGestion.cs",
+              "RelativeToolTip": "LiaKosShop\\PdfGestion.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:07:43.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestionInterface.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\GestionInterface.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\GestionInterface.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\GestionInterface.cs",
+              "RelativeToolTip": "LiaKosShop\\GestionInterface.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:55:50.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GestionComande.cs",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\GestionBD\\GestionComande.cs",
+              "RelativeDocumentMoniker": "GestionBD\\GestionComande.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\GestionBD\\GestionComande.cs",
+              "RelativeToolTip": "GestionBD\\GestionComande.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwE0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:43:58.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmFournisseurs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmFournisseurs.cs",
+              "RelativeDocumentMoniker": "LiaKosShop\\FrmFournisseurs.cs",
+              "ToolTip": "C:\\Users\\loico\\OneDrive\\Bureau\\LiaKosShop\\LiaKosShop\\FrmFournisseurs.cs [Design]",
+              "RelativeToolTip": "LiaKosShop\\FrmFournisseurs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:31:15.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
